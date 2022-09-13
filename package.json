@@ -1,6 +1,6 @@
 {
   "name": "klonex",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "KlonexJS: The Revolution of Front-end Web development.\nClone anything! Anytime, anywhere, on any website.",
   "main": "index.js",
   "scripts": {
