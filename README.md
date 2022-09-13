@@ -1,9 +1,11 @@
+# [Klonex](https://klonexjs.com/) &middot; [![GitHub license](https://img.shields.io/badge/license-MIT-blue.svg)](https://github.com/perplexyves/klonex/blob/main/LICENSE) [![npm version](https://img.shields.io/npm/v/klonex.svg?style=flat)](https://www.npmjs.com/package/klonex) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/perplexyves/klonex/pulls)
+
 ## 1 - Installation
 
 #### Through npm
 
 ```bash
-> npm i -D klonex
+npm i -D klonex
 ```
 
 (which is exactly the same as `npm install --save-dev klonex`)
@@ -13,7 +15,7 @@
 If you're not an npm user, you could use yarn:
 
 ```bash
-> yarn add -D klonex
+yarn add -D klonex
 ```
 
 The reality is that KlonexJS is a development package; it is meant to help you locally.
