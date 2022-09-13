@@ -1,0 +1,24 @@
+{
+  "name": "klonex",
+  "version": "0.0.2",
+  "description": "KlonexJS: The Revolution of Front-end Web development.\nClone anything! Anytime, anywhere, on any website.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/perplexyves/klonex.git"
+  },
+  "keywords": [
+    "trace",
+    "clone",
+    "imitate"
+  ],
+  "author": "Yves Daaboul",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/perplexyves/klonex/issues"
+  },
+  "homepage": "https://klonexjs.com"
+}
